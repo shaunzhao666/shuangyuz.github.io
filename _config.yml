@@ -22,9 +22,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: About me, sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "zhaoshua@msu.edu"}
   - {title: Github, icon: github, url: "https://github.com/shaunzhao666"}
-  - {title: LinkedIn, icon: Linkedin, url: "https://https://www.linkedin.com/in/shuangyu-zhao-565a1724a/"}
+  - {title: LinkedIn, icon: linkedin, url: "https://https://www.linkedin.com/in/shuangyu-zhao-565a1724a/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
