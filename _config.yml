@@ -20,7 +20,7 @@ show_minimal: true             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "cv.md", title: About me}
   - {file: "project.md", title: Project}
-  - {file: "frontpage.md", title: Blog}
+  - {file: "blog.md", title: Blog}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Github, icon: github, url: "https://github.com/shaunzhao666"}
