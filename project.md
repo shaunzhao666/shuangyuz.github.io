@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "project"
+title: "Project"
 ---
 
 This is my page for projects
