@@ -18,12 +18,13 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+  - {file: "archive.html", title: Home Change, sidebaricon: home}
+  - {file: "README.md", title: About me, sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "zhaoshua@msu.edu"}
   - {title: Github, icon: github, url: "https://github.com/shaunzhao666"}
+  - {title: LinkedIn, icon: Linkedin, url: "https://https://www.linkedin.com/in/shuangyu-zhao-565a1724a/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
